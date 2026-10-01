@@ -121,10 +121,10 @@ The project can support campus-level initiatives related to:
 
 ## Team
 
-**GreenMinds AI**
-Annapoorna K
-Jayasri A
-Abisha S
+**GreenMinds AI**:
+Annapoorna K,
+Jayasri A,
+Abisha S,
 Hemavathi E
 
 Project: **AI Green Campus – Smart Sustainability Management System**
